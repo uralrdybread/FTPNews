@@ -1,3 +1,13 @@
+This is a simple yet fully responsive news website.
+
+It has three main news subjects for the user to browse that are pulled from https://newsapi.org/.
+
+It incorporates Bootstrap 5 for full mobile compatibility. In the future it will use Angular Material Loading bars and other assets.
+
+![FTPN](https://user-images.githubusercontent.com/48900828/206587572-1c857175-2ba8-46a8-8c7e-c5918ba8eb2e.PNG)
+![FTPN2](https://user-images.githubusercontent.com/48900828/206587577-135c17ec-ce96-4512-9155-92feeab3d18b.PNG)
+
+
 # Newsweb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
