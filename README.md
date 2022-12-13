@@ -1,4 +1,6 @@
-This is a simple yet fully responsive news website.
+https://ftp-news.web.app/
+
+This is a simple and fully responsive news website.
 
 It has three main news subjects for the user to browse that are pulled from https://newsapi.org/.
 
