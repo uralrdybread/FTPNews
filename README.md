@@ -1,4 +1,4 @@
-https://ftp-news.web.app/ Unfortunately the site I
+https://ftp-news.web.app/ Unfortunately the news APIs cannot be used in a production enviroment without a paid subscription. Pic that are included are from a local hosting using ng serve in Angular.
 
 This is a simple and fully responsive news website.
 
